@@ -4,7 +4,6 @@
 Tenemos una serie de datos de los que necesitamos sacar conclusiones para más adelante poder usarlos. En este caso, es importante mostrar ante nuestro CEO datos limpios y con sentido, para eso llevaremos a cabo un **Exploratory Data Analysis**.
 
 # 📁 Estructura de carpetas
-
 ![Descripción de la imagen](assets/estructura.jpg)
 
 # 🛠️ Tecnologías a usar
@@ -13,7 +12,7 @@ Requests
 Pandas
 Matplotlib, Pyplot, Seaborn, Bokeh
 
-### 📦 Condiciones de entrega
+#📦 Condiciones de entrega
 
 Para el día de la entrega, se deberá presentar:
 
