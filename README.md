@@ -5,7 +5,7 @@ Tenemos una serie de datos de los que necesitamos sacar conclusiones para más a
 
 # 📁 Estructura de carpetas
 
-(assets/estructura.jpg)
+![Descripción de la imagen](assets/estructura.jpg)
 
 # 🛠️ Tecnologías a usar
 
