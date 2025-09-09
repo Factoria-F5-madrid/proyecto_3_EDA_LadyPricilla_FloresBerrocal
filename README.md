@@ -8,11 +8,13 @@ Tenemos una serie de datos de los que necesitamos sacar conclusiones para más a
 
 # 🛠️ Tecnologías a usar
 
-Requests
-Pandas
-Matplotlib, Pyplot, Seaborn, Bokeh
+* Requests
+* Pandas
+* Matplotlib
+* Pyplot
+* Seaborn
 
-#📦 Condiciones de entrega
+# 📦 Condiciones de entrega
 
 Para el día de la entrega, se deberá presentar:
 
